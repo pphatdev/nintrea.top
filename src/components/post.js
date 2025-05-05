@@ -1,7 +1,7 @@
 import { CodeBlock } from "@/lib/code/code";
 import { PostHeading1, PostHeading2, PostHeading3, PostHeading4, PostHeading5, PostHeading6 } from "@/lib/posts/headings";
 import { PostIframe } from "@/lib/posts/iframe";
-import { PostImage } from "@/lib/posts/Image";
+import { PostImage } from "@/lib/posts/image";
 import { PostList } from "@/lib/posts/list";
 import { PostParagraph } from "@/lib/posts/paragraph";
 import { PostTable } from "@/lib/posts/table";
